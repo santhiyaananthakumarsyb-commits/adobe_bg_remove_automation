@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Your images (private, can be large). Folders are kept via .gitkeep
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+output*/
+input*/
+
+# Logs and screenshots (can show your account, paths and personal data)
+logs/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
