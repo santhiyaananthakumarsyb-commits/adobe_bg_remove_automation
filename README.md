@@ -130,6 +130,4 @@ Capture each template in the screen state where it is used (for example
 - Firefly limit messages, login screens and unexpected popups are not handled; the image fails and is skipped
 - Screen automation is sensitive to layout changes
 
-## License
 
-Add a license of your choice (for example MIT) before publishing.
